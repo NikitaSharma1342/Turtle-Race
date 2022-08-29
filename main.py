@@ -32,7 +32,6 @@ else:
 while is_race_on:
 
     for turtle in all_turtles:
-        #230 is 250 - half the width of the turtle.
         if turtle.xcor() > 230:
             is_race_on = False
             winning_color = turtle.pencolor()
