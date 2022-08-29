@@ -4,6 +4,7 @@ import random
 is_race_on = False
 screen = Screen()
 screen.setup(width=500, height=400)
+screen.bgcolor("black")
 
 colors = ["red", "orange", "yellow", "green", "blue", "purple"]
 FONT = ("Courier", 18, "bold")
@@ -35,6 +36,7 @@ while is_race_on:
         if turtle.xcor() > 230:
             is_race_on = False
             winning_color = turtle.pencolor()
+            result.pencolor(winning_color)
             if winning_color == user_bet:
                 result.write(f"You Win", align="center", font=FONT)
             else:
