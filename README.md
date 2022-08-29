@@ -27,6 +27,5 @@ In the end, it will notify, who is the winner in the winner's color.
 
 * Winning Shot
 
-<img width="375" alt="image" src="https://user-images.githubusercontent.com/103064401/187147464-ea8226d3-d08f-495d-8872-e2cc7f924306.png">
-
+<img width="371" alt="image" src="https://user-images.githubusercontent.com/103064401/187149677-c7e300c8-ae0e-42a1-8c7d-90bd8c6113fd.png">
 
