@@ -5,29 +5,28 @@ A Turtle racing game created with turtle graphics. To create the game **_Turtle_
 Once the player runs the code all the colors of turtles will get ready on the starting line. A dialogue box will appear asking on which turtle the player bets.
 After the player makes its bet, the race will start, whosoever will reach to the end of the window will win. 
 
-In the end, it will notify, who is the winner.
+In the end, it will notify, who is the winner in the winner's color.
 
 # Screenshots
 
 * Opening Window
 
-<img width="381" alt="image" src="https://user-images.githubusercontent.com/103064401/187137601-db72e781-ea52-44dd-92d1-561a0ef77d86.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/103064401/187146747-c3927e1e-6c75-417b-94ef-c9f971882479.png">
 
 * If the player inputs wrong choice
 
-<img width="375" alt="image" src="https://user-images.githubusercontent.com/103064401/187137789-926ccb1c-2b83-4414-9d6a-772f0525b978.png">
+<img width="376" alt="image" src="https://user-images.githubusercontent.com/103064401/187146838-ffaf4d79-202c-4dc0-8651-dc6587d10e99.png">
 
 * While the turtles are racing
 
-<img width="373" alt="image" src="https://user-images.githubusercontent.com/103064401/187138544-840b183f-2316-45a4-a526-90432c1ac0b5.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/103064401/187147086-02086fbd-0974-4b82-a432-02f50fdf74dc.png">
 
 * Losing Shot
 
-<img width="378" alt="image" src="https://user-images.githubusercontent.com/103064401/187138007-08177352-b0f7-47c9-8f77-71753d283dc1.png">
+<img width="377" alt="image" src="https://user-images.githubusercontent.com/103064401/187147161-16ce72d9-0da3-4273-9157-fa0b13cfd6db.png">
 
 * Winning Shot
 
-<img width="376" alt="image" src="https://user-images.githubusercontent.com/103064401/187138250-ce67955e-06c8-4160-b61b-d174d25f1ad1.png">
-
+<img width="375" alt="image" src="https://user-images.githubusercontent.com/103064401/187147464-ea8226d3-d08f-495d-8872-e2cc7f924306.png">
 
 
