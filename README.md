@@ -1,5 +1,15 @@
 # Turtle-Race
-A Turtle racing game created with turtle graphics. To create the game **_Turtle_ library and _random_ module** is used.
+A Turtle racing game created with turtle graphics.
+
+# Table of Contents
+* Libraries and modulea
+* How to Run
+* Screenshots
+
+# Libraries and modules
+
+* Turtle
+* Random
 
 # How to run
 Once the player runs the code all the colors of turtles will get ready on the starting line. A dialogue box will appear asking on which turtle the player bets.
